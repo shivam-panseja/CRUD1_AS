@@ -1,0 +1,7 @@
+# database:
+#   adapter: MongoDB
+#   host: localhost
+#   port: 5432
+#   username: Shivam
+#   password: 12343
+#   database: User_Info
